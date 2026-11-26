@@ -47,4 +47,10 @@ public class CasualtyData : ScriptableObject
     //The correct category for this patient. Trainees choice is compared to this
     public TriageCategory expectedCategory;
 
+    // 3D PATIENT
+    [Header("3D patient")]
+    // The prefab the spawner will place in the scene for this casualty.
+    public GameObject prefab;
+
+
 }

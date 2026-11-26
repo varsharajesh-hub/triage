@@ -26,3 +26,4 @@ MonoBehaviour:
   capillaryRefillSeconds: 1.5
   followsCommands: 1
   expectedCategory: 1
+  prefab: {fileID: 3541295594938928639, guid: deca9355cf88c4ea8b1db90f20907a01, type: 3}
