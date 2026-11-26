@@ -12,14 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76e0034a8011a4d64926d1b2ce9c14b4, type: 3}
   m_Name: Case10_Data
   m_EditorClassIdentifier: Assembly-CSharp::CasualtyData
-  caseNumber: 0
-  title: 
-  whatTraineeSees: 
+  caseNumber: 10
+  title: Hip injury with restricted mobility
+  whatTraineeSees: A 54-year-old woman was thrown sideways against the interior of
+    the minibus during the collision. She has severe pain and bruising around her
+    left hip. She is conscious and communicating normally but is unable to stand
+    because of the pain. There is no visible major bleeding.
   canWalk: 0
-  isBreathing: 0
+  isBreathing: 1
   breathesAfterAirwayRepositioning: 0
-  respiratoryRate: 0
+  respiratoryRate: 20
   radialPulsePresent: 1
-  capillaryRefillSeconds: 2
-  followsCommands: 0
-  expectedCategory: 0
+  capillaryRefillSeconds: 1.5
+  followsCommands: 1
+  expectedCategory: 1
