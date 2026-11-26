@@ -1,0 +1,27 @@
+MEDICAL PROP SOURCES AND REUSE
+
+Creator/source: Innerscene, original unbranded models.
+Publisher dedication: Creative Commons Zero (CC0), public domain.
+Publisher permits use, modification and redistribution for any purpose, including
+commercial use, without requiring credit.
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+Gurney_Transport.fbx
+Original: Patient transport stretcher
+https://www.innerscene.com/tools/library/3d-parts/patient-transport-stretcher-3ff4d512
+Original download: patient-transport-stretcher.glb
+
+Blanket_Throw.fbx
+Original: Throw blanket - Original Interior Decor
+https://www.innerscene.com/tools/library/3d-parts/throw-blanket-original-interior-decor-f452871f
+Original download: throw-blanket-original-interior-decor.glb
+
+Changes made while preparing this import pack:
+- Converted GLB files to FBX using Blender.
+- Joined static mesh parts, keeping their material assignments.
+- Placed each pivot at ground level and centred it horizontally.
+- Exported required colour textures alongside the FBX files.
+- Preserved the overall measured dimensions of the medical props.
+No clinical accuracy, usability or Unity runtime validation is implied.
+
+Suggested credit: Gurney and blanket by Innerscene (CC0); prepared for Unity import.
