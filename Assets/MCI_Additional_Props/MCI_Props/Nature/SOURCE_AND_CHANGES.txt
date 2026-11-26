@@ -1,0 +1,11 @@
+NATURE PROP SOURCE
+Creator: Kenney
+Pack: Nature Kit 2.1
+https://kenney.nl/assets/nature-kit
+Licence: CC0. See the unchanged publisher file License_Kenney.txt.
+
+Six bush variants were selected from the publisher GLB models and converted to
+binary FBX with their flat colour materials. Static meshes were joined and pivots
+centred at the bottom. These models are small at native scale; try a uniform
+Unity Transform Scale of (3, 3, 3) for roadside bushes, then adjust to your layout.
+Suggested credit: Bushes by Kenney (CC0); converted for Unity import.
