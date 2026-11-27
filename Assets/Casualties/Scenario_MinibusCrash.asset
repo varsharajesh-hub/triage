@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8de47ec35d4d4b8898c2951cc9f8082, type: 3}
+  m_Name: Scenario_MinibusCrash
+  m_EditorClassIdentifier: Assembly-CSharp::ScenarioData
+  scenarioName: Minibus crash
+  casualties:
+  - {fileID: 11400000, guid: 56fcbc431f9b545dd8049db3b0cc67b3, type: 2}
