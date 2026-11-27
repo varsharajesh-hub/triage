@@ -1259,11 +1259,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 145a8430926b035498d4ae0ab4a2c8cb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.17
+      value: 15.77
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 145a8430926b035498d4ae0ab4a2c8cb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.44
+      value: 0.02
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 145a8430926b035498d4ae0ab4a2c8cb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1726,11 +1726,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 145a8430926b035498d4ae0ab4a2c8cb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.17
+      value: 15.86
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 145a8430926b035498d4ae0ab4a2c8cb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.44
+      value: 0.11
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 145a8430926b035498d4ae0ab4a2c8cb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2183,6 +2183,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2071930768}
+  - component: {fileID: 2071930769}
   m_Layer: 0
   m_Name: CasualtySpawner
   m_TagString: Untagged
@@ -2205,6 +2206,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2071930769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071930767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ea499b751fa144829c08065a8fbbf1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CasualtySpawner
+  scenario: {fileID: 11400000, guid: 233bbee99b2b74f248e734446084d33b, type: 2}
+  spawnPoints: {fileID: 4249793803878181292}
 --- !u!1001 &2077571381
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2585,6 +2600,11 @@ PrefabInstance:
 --- !u!4 &4249793803878181291 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 93283392284724410, guid: a3b79b3440cb4aa46b22b47d1f290b1c, type: 3}
+  m_PrefabInstance: {fileID: 4249793803878181290}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4249793803878181292 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7234849192463396840, guid: a3b79b3440cb4aa46b22b47d1f290b1c, type: 3}
   m_PrefabInstance: {fileID: 4249793803878181290}
   m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
