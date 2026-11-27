@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76e0034a8011a4d64926d1b2ce9c14b4, type: 3}
   m_Name: Case01_Data
   m_EditorClassIdentifier: Assembly-CSharp::CasualtyData
-  caseNumber: 1
+  caseNumber: 3
   title: Leg Injury
   whatTraineeSees: 'Man lying on the ground. Right thigh swollen and deformed, skin
     pale and sweaty. '
