@@ -13,14 +13,15 @@ MonoBehaviour:
   m_Name: Case01_Data
   m_EditorClassIdentifier: Assembly-CSharp::CasualtyData
   caseNumber: 1
-  title: 
-  whatTraineeSees: 
+  title: Leg Injury
+  whatTraineeSees: 'Man lying on the ground. Right thigh swollen and deformed, skin
+    pale and sweaty. '
   canWalk: 0
-  isBreathing: 0
+  isBreathing: 1
   breathesAfterAirwayRepositioning: 0
-  respiratoryRate: 0
-  radialPulsePresent: 1
-  capillaryRefillSeconds: 2
-  followsCommands: 0
-  expectedCategory: 0
+  respiratoryRate: 24
+  radialPulsePresent: 0
+  capillaryRefillSeconds: 4
+  followsCommands: 1
+  expectedCategory: 2
   prefab: {fileID: 4539435651527483780, guid: e0a7c480596acd84bb9facba3734d807, type: 3}
