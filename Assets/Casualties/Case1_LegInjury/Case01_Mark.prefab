@@ -61,7 +61,7 @@ PrefabInstance:
       addedObject: {fileID: 462032185354118593}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: eb634d25c712fd545baac7dabd6d02dd, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 5390948488559473191}
+      addedObject: {fileID: 7642654734166527652}
   m_SourcePrefab: {fileID: 100100000, guid: eb634d25c712fd545baac7dabd6d02dd, type: 3}
 --- !u!1 &4539435651527483780 stripped
 GameObject:
@@ -90,7 +90,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &5390948488559473191
+--- !u!114 &7642654734166527652
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -99,7 +99,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4539435651527483780}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 521a3bee29883234a8436ce1398ca190, type: 3}
+  m_Script: {fileID: 11500000, guid: 7f5188d82743c491b9f58614cff96fd1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CasualtyPatient
   data: {fileID: 0}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76e0034a8011a4d64926d1b2ce9c14b4, type: 3}
+  m_Name: Case01_Data
+  m_EditorClassIdentifier: Assembly-CSharp::CasualtyData
+  caseNumber: 1
+  title: 
+  whatTraineeSees: 
+  canWalk: 0
+  isBreathing: 0
+  breathesAfterAirwayRepositioning: 0
+  respiratoryRate: 0
+  radialPulsePresent: 1
+  capillaryRefillSeconds: 2
+  followsCommands: 0
+  expectedCategory: 0
+  prefab: {fileID: 4539435651527483780, guid: e0a7c480596acd84bb9facba3734d807, type: 3}

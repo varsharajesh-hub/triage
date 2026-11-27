@@ -15,3 +15,4 @@ MonoBehaviour:
   scenarioName: Minibus crash
   casualties:
   - {fileID: 11400000, guid: 56fcbc431f9b545dd8049db3b0cc67b3, type: 2}
+  - {fileID: 11400000, guid: 05121db60b0fd3540bd23a403cfaee04, type: 2}
